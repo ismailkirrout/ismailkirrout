@@ -1,11 +1,15 @@
-<h1 align="center"> Hello friend, I'm Ismail! </h1>
-> “Errors in the lab can cost you samples, errors in code will cost your weekend”
+<h1 align="center"> Hello friend, I'm Ismail! 🌱 </h1>
+
+<p align="center"><em>“Errors in the lab can cost you samples,<br>errors in code will cost your weekend...”</em></p>
+
 <p align="center">
   <br>
   <img src="./hello_friend.png" width="100%">
 </p>
 
-I'm a **Computational Biologist** passionate about using code to make sense of complex biological systems and human diseases. With a strong foundation in **molecular biology**, **immunology**, and **genomic data analysis**. I combine wet lab experience with programming to approach biology from both ends of the pipette.
+I'm a **Computational Biologist**, passionate about using code to make sense of complex biological systems and human diseases. With a strong foundation in **molecular biology**, **immunology**, and **genomic data analysis**. I combine wet lab experience with programming to approach biology from both ends of the pipette.
+
+<br>
 
 ## 🧬 About Me
 
@@ -18,45 +22,25 @@ I hold a **Bachelor’s degree in Biology** from the University of Alcalá (UAH)
 
 Throughout my academic journey, I've balanced hands-on experimentation with rigorous data analysis. My research at the **Instituto de Investigación Sanitaria de la Princesa (IIS Princesa)** includes:
 
-- 🧪 **Bachelor's Thesis**: Focused on immunology with techniques like **flow cytometry, qPCR, protein quantification, and microscopy**, paired with **statistical analysis in R**.  
+- 🧪 **Bachelor's Thesis**: Focused on immunology research with techniques like **flow cytometry, qPCR, protein quantification, and microscopy**, paired with **statistical analysis in R**.  
 - 🧠 **Master’s Thesis**: A **genome-wide association study (GWAS)** on cardiovascular diseases using advanced **statistical and computational genomics** methods.
 
 (📢 I presented part of my work on B cell surface proteins at the **45th SEMI Congress (2024)**).
 
+<br>
 
 ## 🛠️ Tech Skills
 
-**Programming**  
-• Python | R | Bash
+| Category                        | Tools & Topics                                                                 |
+|--------------------------------|--------------------------------------------------------------------------------|
+| **Programming**                | Python, R, Bash                                                                |
+| **Genomic Data Analysis**      | QC & preprocessing, Genome assembly, Variant calling, GWAS, RNA-seq, Phylogenetics                |
+| **Statistical Modeling**       | Descriptive analysis, Uni & Multivariate analysis, Principal component / Factor / Correspondance analysis, Basic stats               |
+| **Machine Learning**           | Supervised and Unsupervised (scikit-learn, PySpark)                                                          |
+| **Data Science & FAIR**        | Big Data engineering (PySpark), FAIR data management, SPARQL                              |
+| **Structural Bio & Drug Disc.**| Virtual screening, Pharmacophore modeling, QSAR, Docking                      |
 
-**Genomic Data Analysis**  
-• Genome assembly  
-• Variant calling  
-• GWAS  
-• RNA-seq  
-• Phylogenetics
-
-**Statistical Modeling & Visualization**  
-• Descriptive analysis
-• Uni and multivariate analysis
-• Principal component, Factor and Correspondance analysis
-• Basic stats
-
-**Machine Learning**  
-• Scikit-learn  
-• PySpark
-
-**Data Science & FAIR Principles**  
-• Big Data engineering (PySpark)  
-• FAIR data management  
-• SPARQL
-
-**Structural Biology & Drug Discovery**  
-• Ligand and shape-based virtual screening  
-• Pharmacophore modeling  
-• QSAR analysis  
-• Molecular docking
-
+<br>
 
 ## 💡 Soft Skills
 🚀 Relentless problem-solver – I won’t stop until the challenge is cracked.
@@ -67,9 +51,13 @@ Throughout my academic journey, I've balanced hands-on experimentation with rigo
 
 🤝 Collaborative and proactive in multidisciplinary teams.
 
+<br>
+
 ## 📚 What’s Next?
 I'm now looking forward to starting a PhD, where I aim to further develop computational skills to uncover insights in biology and medicine.
 From genotype to phenotype.
+
+<br>
 
 ## 📫 Let’s Connect! 
 > 📧 ismail.kirrout@gmail.com
