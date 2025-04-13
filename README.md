@@ -1,5 +1,9 @@
-# 👋 Hi there, I'm Ismail!
-> “Errors in the lab cost samples. Errors in code cost your weekend.”
+<h1 align="center"> Hello friend, I'm Ismail! </h1>
+> “Errors in the lab can cost you samples, errors in code will cost your weekend”
+<p align="center">
+  <br>
+  <img src="./hello_friend.png" width="100%">
+</p>
 
 I'm a **Computational Biologist** passionate about using code to make sense of complex biological systems and human diseases. With a strong foundation in **molecular biology**, **immunology**, and **genomic data analysis**. I combine wet lab experience with programming to approach biology from both ends of the pipette.
 
@@ -21,22 +25,38 @@ Throughout my academic journey, I've balanced hands-on experimentation with rigo
 
 
 ## 🛠️ Tech Skills
-Programming
-> Python | R | Bash
 
-Genomic Data Analysis
-> Genome assembly | Variant calling | GWAS | RNA-seq | Phylogenetics
+**Programming**  
+• Python | R | Bash
 
-Statistical Modeling & Visualization
+**Genomic Data Analysis**  
+• Genome assembly  
+• Variant calling  
+• GWAS  
+• RNA-seq  
+• Phylogenetics
 
-Machine learning
-> Scikit-learn | PySpark
+**Statistical Modeling & Visualization**  
+• Descriptive analysis
+• Uni and multivariate analysis
+• Principal component, Factor and Correspondance analysis
+• Basic stats
 
-Data Science & FAIR Principles
-> Big Data engineering | FAIR data management | SPARQL
+**Machine Learning**  
+• Scikit-learn  
+• PySpark
 
-Structural biology & Drug discovery
-> Ligand and Shape Based Virtual screening | Pharmacophore modeling | QSAR analysis | Docking
+**Data Science & FAIR Principles**  
+• Big Data engineering (PySpark)  
+• FAIR data management  
+• SPARQL
+
+**Structural Biology & Drug Discovery**  
+• Ligand and shape-based virtual screening  
+• Pharmacophore modeling  
+• QSAR analysis  
+• Molecular docking
+
 
 ## 💡 Soft Skills
 🚀 Relentless problem-solver – I won’t stop until the challenge is cracked.
@@ -48,10 +68,10 @@ Structural biology & Drug discovery
 🤝 Collaborative and proactive in multidisciplinary teams.
 
 ## 📚 What’s Next?
-I'm now looking forward to starting a PhD, where I aim to further develop computational pipelines to uncover insights in biology and medicine.
+I'm now looking forward to starting a PhD, where I aim to further develop computational skills to uncover insights in biology and medicine.
 From genotype to phenotype.
 
-# 📫 Let’s Connect! 
+## 📫 Let’s Connect! 
 > 📧 ismail.kirrout@gmail.com
 
 <!--
