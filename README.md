@@ -22,26 +22,29 @@ Throughout my academic journey, I've balanced hands-on experimentation with rigo
 
 ## 🛠️ Tech Skills
 Programming
-  Python | R | Bash
+> Python | R | Bash
 
 Genomic Data Analysis
-  Genome assembly | Variant calling | GWAS | RNA-seq | Phylogenetics
+> Genome assembly | Variant calling | GWAS | RNA-seq | Phylogenetics
 
 Statistical Modeling & Visualization
 
 Machine learning
-  Scikit-learn | PySpark
+> Scikit-learn | PySpark
 
 Data Science & FAIR Principles
-  Big Data engineering | FAIR data management | SPARQL
+> Big Data engineering | FAIR data management | SPARQL
 
 Structural biology & Drug discovery
-  Ligand and Shape Based Virtual screening | Pharmacophore modeling | QSAR analysis | Docking
+> Ligand and Shape Based Virtual screening | Pharmacophore modeling | QSAR analysis | Docking
 
 ## 💡 Soft Skills
 🚀 Relentless problem-solver – I won’t stop until the challenge is cracked.
+
 🧠 Critical and analytical thinker with a strong scientific mindset.
+
 🔄 Adaptable to both research and computational environments.
+
 🤝 Collaborative and proactive in multidisciplinary teams.
 
 ## 📚 What’s Next?
