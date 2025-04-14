@@ -4,7 +4,7 @@
 
 <p align="center">
   <br>
-  <img src="./hello_friend.png" width="100%">
+  <img src=".assets/hello_friend.png" width="100%">
 </p>
 
 I'm a **Computational Biologist**, passionate about using code to make sense of complex biological systems and human diseases. With a strong foundation in **molecular biology**, **immunology**, and **genomic data analysis**. I combine wet lab experience with programming to approach biology from both ends of the pipette.
